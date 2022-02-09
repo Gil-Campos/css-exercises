@@ -1,0 +1,19 @@
+.odd {
+    background-color: #FF9999;
+    font-family: Verdana, DejaVu, sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#firstEven {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#secondEven {
+    background-color: #00FF00;
+    font-size: 24px;
+    font-weight: bold;
+}
